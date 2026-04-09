@@ -1,14 +1,14 @@
 {
   "mappings": [
-    "/content/luma-site/language-masters/en:/",
-    "/content/luma-site/language-masters/en/:/en/",
-    "/content/luma-site/configuration:/.helix/config.json",
-    "/content/luma-site/metadata:/metadata.json",
-    "/content/luma-site/redirects:/redirects.json",
-    "/content/luma-site/placeholders:/placeholders.json"
+    "/content/pbakliwal/my-dsn-project-9/language-masters/en:/",
+    "/content/pbakliwal/my-dsn-project-9/language-masters/en/:/en/",
+    "/content/pbakliwal/my-dsn-project-9/configuration:/.helix/config.json",
+    "/content/pbakliwal/my-dsn-project-9/metadata:/metadata.json",
+    "/content/pbakliwal/my-dsn-project-9/redirects:/redirects.json",
+    "/content/pbakliwal/my-dsn-project-9/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/luma-site/",
-    "/content/dam/luma-site/"
+    "/content/pbakliwal/my-dsn-project-9/",
+    "/content/dam/pbakliwal/my-dsn-project-9/"
   ]
 }
