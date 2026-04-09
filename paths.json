@@ -1,0 +1,14 @@
+{
+  "mappings": [
+    "/content/luma-site/language-masters/en:/",
+    "/content/luma-site/language-masters/en/:/en/",
+    "/content/luma-site/configuration:/.helix/config.json",
+    "/content/luma-site/metadata:/metadata.json",
+    "/content/luma-site/redirects:/redirects.json",
+    "/content/luma-site/placeholders:/placeholders.json"
+  ],
+  "includes": [
+    "/content/luma-site/",
+    "/content/dam/luma-site/"
+  ]
+}
